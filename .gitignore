@@ -1,0 +1,4 @@
+# Specify filepatterns you want git to ignore.
+
+*.sublime*
+!Default (Linux).sublime-keymap
